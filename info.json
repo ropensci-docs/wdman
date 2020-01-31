@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a6cb9043458cb58232f60bae251564a1d88ca48a",
+    "author": "Ju Yeong Kim <jkim2345@fredhutch.org>",
+    "time": "2020-01-31 21:52:54",
+    "files": 1,
+    "merge": false,
+    "message": "Update appveyor config\n"
+  },
+  "remote": "https://github.com/ropensci/wdman",
+  "pkg": "wdman"
+}

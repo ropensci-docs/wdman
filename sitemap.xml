@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/wdman/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/reference/chrome.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/reference/gecko.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/reference/iedriver.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/reference/phantomjs.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/reference/selenium.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/reference/wdman.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/wdman/articles/basics.html</loc>
+  </url>
+</urlset>
