@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "47e590548f7370f0d4f54a1cd025193dde5d7e08",
+    "author": "Jonathan Völkle <jonathan.voelkle@web.de>",
+    "time": "2023-10-11 11:57:33",
+    "files": 2,
+    "merge": false,
+    "message": "Fix missing java runtime (#38)\n\n* fix java_check if runtime missing\r\n* fix mock of java_check"
+  },
+  "repo": "https://github.com/ropensci/wdman",
+  "pkg": "wdman"
+}
